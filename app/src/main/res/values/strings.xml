@@ -1,0 +1,51 @@
+<resources>
+    // 1 страница
+    <string name="app_name">appForRZD</string>
+    <string name="textCargo">Попутный груз</string>
+    <string name="hintEmail">Логин/Телефон/E-mail</string>
+    <string name="hintPassword">Пароль</string>
+    <string name="enter">ВОЙТИ</string>
+    <string name="registration">Регистрация</string>
+    <string name="forgotMyPassword">Забыли пароль?</string>
+    // 2 страница
+    <string name="Owner">Собственник</string>
+    <string name="Shipper">Грузоотправитель</string>
+    // 3 страница
+    <string name="proposal">Найти предложение</string>
+    <string name="application">Оставить заявку</string>
+    <string name="goBack">назад</string>
+    <string name="newOffers">Новые предложения</string>
+    <string name="acceptedApplications">Принятые заявки</string>
+    <string name="reviews">Отзывы</string>
+    // 4 страница
+    <string name="filter">Фильтр</string>
+    <string name="result">Результаты:</string>
+    <string name="direction1">Уфа -> Владивосток</string>
+    <string name="direction2">Уфа -> Челябинск</string>
+    <string name="direction3">Самара -> Уфа</string>
+    <string name="cargoInContainers1">Наименование груза: Продукты питания</string>
+    <string name="cargoInContainers2">Наименование груза: Стройматериалы</string>
+    <string name="cargoInContainers3">Наименование груза: Насыпной груз</string>
+    <string name="LoadСapacity1">Грузоподъемность: 20 тонн</string>
+    <string name="LoadСapacity2">Грузоподъемность: 40 тонн</string>
+    <string name="LoadСapacity3">Грузоподъемность: 60 тонн</string>
+    <string name="time1">13.02.23 - 13.02.23</string>
+    <string name="time2">15.03.23 - 17.03.23</string>
+    <string name="time3">26.05.23 - 28.05.23</string>
+    <string name="tags1">Теги: #мясопроудкты#напитки#крупы</string>
+    <string name="tags2">Теги: #плитка#цемент#кирпич#железо</string>
+    <string name="tags3">Теги: #сахар#песок#щебень#соль</string>
+    // 5 страница
+    <string name="whereFrom">Откуда</string>
+    <string name="where">Куда</string>
+    <string name="list">Выберите из списка</string>
+    <string name="type">Тип</string>
+    <string name="foodProducts">Продукты питания</string>
+    <string name="buildingMaterials">Стройматериалы</string>
+    <string name="BulkCargo">Насыпной груз</string>
+    <string name="other">Другое</string>
+    <string name="LoadCapacitySlider">Грузоподъемность</string>
+    <string name="From">от ___</string>
+    <string name="Before">до ___</string>
+    <string name="tags">Теги</string>
+</resources>
